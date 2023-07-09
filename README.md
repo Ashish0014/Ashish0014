@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ashish Vardhan
-- 👀 I’m interested in Web Development 
+- 👀 I’m interested in Web Development, Ethical Hacking, Cyber Security
 - 🌱 I’m currently learning Html, CSS
 
 
